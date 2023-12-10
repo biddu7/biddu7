@@ -12,6 +12,7 @@
 > 4. Hover mouse of **Topic (Pages)**
 > 5. Click **Card (Tiles)** to open watch notes (texts) & images
 > 6. To view my **Digital Resume** click on the **Logo** or **Above Me** link
+> 7. You can print/generate printable content (Image or Text) using 'Add to Kart' or 
 ---
 **C. Other social profile links:** 
 [![LinkedIn](https://github.com/biddu7/biddu7/assets/27678248/d8e972d8-022a-4d8e-a8ec-70fc20e26531)](https://www.linkedin.com/in/joydeep-basu-4a760763/)
@@ -26,4 +27,4 @@
 &nbsp;
 [![WebSite](https://github.com/biddu7/biddu7/assets/27678248/212d5fc9-c65e-451f-a93c-7bd90d726dd9)](https://biddu7.github.io/)
 &nbsp;
-[![FaceBook](https://github.com/biddu7/biddu7/assets/27678248/b6e7a43a-2383-447f-b886-e7964f0e66f4)]()
+[![FaceBook](https://github.com/biddu7/biddu7/assets/27678248/b6e7a43a-2383-447f-b886-e7964f0e66f4)](https://www.facebook.com/joydeep.basu.106)
