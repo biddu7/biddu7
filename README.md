@@ -5,4 +5,8 @@
 
 **Content types:** *:one: Programming (examples), :two: DSA practices (leetCode/HackerRank), :three: E2E Solution/Enablers (Codebase/Demo), :four: Frameworks (Repo/Demo), :five: Architecture & Key Diagrams , :six: Ideas (Thought posts), :seven:Resume (Digital), :eight: Knowledge Bytes (Blogs), :nine: Summary (Cheatsheets), :keycap_ten: Misc..*
 
-![Linkedin] (https://www.linkedin.com/in/joydeep-basu-4a760763/)
+![Linkedin] ()
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joydeep-basu-4a760763/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://biddu7.github.io)
