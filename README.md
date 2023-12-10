@@ -14,7 +14,9 @@
 > 6. To view my **Digital Resume** click on the **Logo** or **Above Me** link
 > 7. You can print/generate printable content (Image or Text) using 'Add to Kart' or 
 ---
+
 **C. Other social profile links:** 
+
 [![LinkedIn](https://github.com/biddu7/biddu7/assets/27678248/d8e972d8-022a-4d8e-a8ec-70fc20e26531)](https://www.linkedin.com/in/joydeep-basu-4a760763/)
 &nbsp;
 [![LeetCode](https://github.com/biddu7/biddu7/assets/27678248/3ec06380-ace4-4e39-a38b-0c190bee75fb)](https://leetcode.com/jbasu07/)
