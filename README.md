@@ -5,13 +5,12 @@
 
 **B. Content types:** *:one: Programming (Coding examples), :two: DSA practices (leetCode/HackerRank), :three: E2E Solution/Enablers (Codebase/Demo), :four: Frameworks (Repo/Demo), :five: Architecture & Key Diagrams (Images) , :six: Ideas & Thought posts (Video/Text), :seven: Digital Resume (Printable), :eight: Knowledge Bytes (Text), :nine: Summary (Cheatsheets), :keycap_ten: Misc..*
 
-**Notes:** 
-> 1. Click on the image below
-> 2. Watch the video (Portal walkthrough)
+**C. Important Notes:** 
+> 1. Click on the above **image** to navigate to the centralized portal.
+> 2. Watch the **video** on third Tile/Card (Portal walkthrough)
 > 3. Click the Red **Lock** (No password required)
-> 4. Hover mouse of Topic (Pages)
-> 5. Click Card (Tiles) to open
-
+> 4. Hover mouse of **Topic (Pages)**
+> 5. Click **Card** (Tiles) to open
 ---
 [![LinkedIn](https://github.com/biddu7/biddu7/assets/27678248/d8e972d8-022a-4d8e-a8ec-70fc20e26531)](https://www.linkedin.com/in/joydeep-basu-4a760763/)
 &nbsp;
