@@ -20,5 +20,5 @@
 &nbsp;
 [![FaceBook](https://github.com/biddu7/biddu7/assets/27678248/b6e7a43a-2383-447f-b886-e7964f0e66f4)]()
 
-[^1]: 1. Click on the image below 2. Watch the video (Portal walkthrough) 3. Click the Red 'Lock' (No password required), 4. Hover mouse of Topic (Pages) &
+> 1. Click on the image below 2. Watch the video (Portal walkthrough) 3. Click the Red 'Lock' (No password required), 4. Hover mouse of Topic (Pages) &
 
