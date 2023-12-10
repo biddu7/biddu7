@@ -16,6 +16,6 @@
 &nbsp;
 [![YouTube](https://github.com/biddu7/biddu7/assets/27678248/42b4a499-ea2a-4a34-8ddb-c59b3e028241)](https://youtube.com/@biddu7)
 &nbsp;
-[![WebSite](https://github.com/biddu7/biddu7/assets/27678248/212d5fc9-c65e-451f-a93c-7bd90d726dd9)]()
+[![WebSite](https://github.com/biddu7/biddu7/assets/27678248/212d5fc9-c65e-451f-a93c-7bd90d726dd9)](https://biddu7.github.io/)
 &nbsp;
 [![FaceBook](https://github.com/biddu7/biddu7/assets/27678248/b6e7a43a-2383-447f-b886-e7964f0e66f4)]()
