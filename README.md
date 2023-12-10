@@ -7,15 +7,14 @@
 
 **C. Important Notes:** 
 > 1. Click on the above image to navigate to my **Career portal**.
-> 2. Watch the video on the third Tile/Card (**Portal walkthrough**)
+> 2. (Optional) Watch the (**Portal walkthrough**) video inside 3rd Tile/Card.
 > 3. Click the Red **Lock** (No password required)
-> 4. Hover mouse of **Topic (Pages)**
-> 5. Click **Card (Tiles)** to open watch notes (texts) & images
-> 6. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
-> 7. You can print/download any content using options **Add to Kart** & **Items to Checkout**
----
+> 4. Hover your mouse on any **Topics (Pages)**
+> 5. Click any **Card (Tiles)** to access all contents inside it.
+> 6. You can print/download any content using options **Add to Kart** & **Items to Checkout**
+> 7. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
 
-**C. Social Profile links:** 
+---
 
 [![LinkedIn](https://github.com/biddu7/biddu7/assets/27678248/d8e972d8-022a-4d8e-a8ec-70fc20e26531)](https://www.linkedin.com/in/joydeep-basu-4a760763/)
 &nbsp;
