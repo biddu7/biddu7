@@ -7,7 +7,7 @@
 
 **C. Important Notes:** 
 > 1. Click on the above image to navigate to my **Career portal**.
-> 2. (Optional) Watch the (**Portal walkthrough**) video inside 3rd Tile/Card.
+> 2. (Optional) Watch the **Portal walkthrough** video (Third Tile) to get familiar with portal features.
 > 3. Click the Red **Lock** (No password required)
 > 4. Hover your mouse on any **Topics (Pages)**
 > 5. Click any **Card (Tiles)** to access all contents inside it.
