@@ -15,7 +15,7 @@
 > 7. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
 
 ---
-D. Important Links:
+**D. Important Links:**
 
 [![LinkedIn](https://github.com/biddu7/biddu7/assets/27678248/d8e972d8-022a-4d8e-a8ec-70fc20e26531)](https://www.linkedin.com/in/joydeep-basu-4a760763/)
 &nbsp;
