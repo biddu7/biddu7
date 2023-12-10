@@ -6,13 +6,13 @@
 **B. Content types:** *:one: Programming (Coding examples), :two: DSA practices (leetCode/HackerRank), :three: E2E Solution/Enablers (Codebase/Demo), :four: Frameworks (Repo/Demo), :five: Architecture & Key Diagrams (Images) , :six: Ideas & Thought posts (Video/Text), :seven: Digital Resume (Printable), :eight: Knowledge Bytes (Text), :nine: Summary (Cheatsheets), :keycap_ten: Misc..*
 
 **C. Important Notes:** 
-> 1. Click on the above image to navigate to the **centralized portal**.
+> 1. Click on the above image to navigate to my **Career portal**.
 > 2. Watch the video on the third Tile/Card (**Portal walkthrough**)
 > 3. Click the Red **Lock** (No password required)
 > 4. Hover mouse of **Topic (Pages)**
 > 5. Click **Card (Tiles)** to open watch notes (texts) & images
-> 6. To view my **Digital Resume** click on the **Logo** or **Above Me** link
-> 7. You can print/generate printable content (Image or Text) using 'Add to Kart' or 
+> 6. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
+> 7. You can print/download any content using options **Add to Kart** & **Items to Checkout**
 ---
 
 **C. Social Profile links:** 
