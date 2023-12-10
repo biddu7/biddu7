@@ -8,10 +8,10 @@
 **C. Important Notes:** 
 > 1. Click on the above image to navigate to my **Career portal**.
 > 2. (Optional) Watch the **Portal walkthrough** video (Third Tile) to get familiar with portal features.
-> 3. Click the Red **Lock** (No password required)
-> 4. Hover your mouse on any **Topics (Pages)**
+> 3. Just click the **red Lock** to enter into the main area (No password required).
+> 4. Hover your mouse on any **Topics (Pages)** .
 > 5. Click any **Card (Tiles)** to access all contents inside it.
-> 6. You can print/download any content using options **Add to Kart** & **Items to Checkout**
+> 6. You can print/download any content using the card options **1. Add to Kart** & **2. Items to Checkout** .
 > 7. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
 
 ---
