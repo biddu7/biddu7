@@ -5,6 +5,7 @@
 
 **Content types:** *:one: Programming (Coding examples), :two: DSA practices (leetCode/HackerRank), :three: E2E Solution/Enablers (Codebase/Demo), :four: Frameworks (Repo/Demo), :five: Architecture & Key Diagrams (Images) , :six: Ideas & Thought posts (Video/Text), :seven: Digital Resume (Printable), :eight: Knowledge Bytes (Text), :nine: Summary (Cheatsheets), :keycap_ten: Misc..*
 
+---
 **Links:**
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joydeep-basu-4a760763/)
 &nbsp;
