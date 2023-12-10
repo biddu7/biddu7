@@ -8,7 +8,7 @@
 **Notes:** 
 > 1. Click on the image below
 > 2. Watch the video (Portal walkthrough)
-> 3. Click the Red 'Lock' (No password required)
+> 3. Click the Red **Lock** (No password required)
 > 4. Hover mouse of Topic (Pages)
 > 5. Click Card (Tiles) to open
 
