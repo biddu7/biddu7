@@ -7,12 +7,12 @@
 
 **C. Important Notes:** 
 > 1. Click on the above image to navigate to my **Career portal**.
-> 2. (Optional) Watch the **Portal walkthrough** video (Third Tile) to get familiar with portal features.
-> 3. Just click the **red Lock** to enter into the main area (No password required).
-> 4. Hover your mouse on any **Topics (Pages)** .
-> 5. Click any **Card (Tiles)** to access all contents inside it.
-> 6. You can print/download any content using the card options **1. Add to Kart** & **2. Items to Checkout** .
-> 7. To view my **Digital Resume** click the **Logo** or **Above Me** (dropdown arrow link).
+> 2. (Optional) Watch my **Latest** solution videos in the login screen (cover) or visit **Solution** page using **LEFT** dropdown menu.
+> 3. Click the **Red Lock** to enter into the main area (No password required).
+> 4. You will find everything either on the **LEFT** or **RIGHT** side dropdown menu.
+> 5. Click any **Card (Tiles)** to access all contents inside it - **Notes, Images and video** as applicable.
+> 6. You can print/download any content using the card options **1. Add to Cart** & **2. Items to Checkout** .
+> 7. Click **e-Resume** (under RIGHT dropdown options) and use cart-buttons to dynamically build my **ATS-friendly** resume (printable PDF format).
 
 ---
 **D. All Links:**
