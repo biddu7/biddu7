@@ -11,8 +11,8 @@
 > 3. Click the **Red Lock** to enter into the main area (No password required).
 > 4. You will find everything either on the **LEFT** or **RIGHT** side dropdown menu.
 > 5. Click any **Card (Tiles)** to access all contents inside it - **Notes, Images and video** as applicable.
-> 6. You can print/download any content using the card options **1. Add to Cart** & **2. Items to Checkout** .
-> 7. Click **e-Resume** (under RIGHT dropdown options) and use cart-buttons to dynamically build my **ATS-friendly** resume (printable PDF format).
+> 6. You can print/download any content using the cart-options **1. Add to Cart** & **2. Items to Checkout** .
+> 7. Click **e-Resume** (RIGHT dropdown) and use cart-options to dynamically build my **ATS-friendly** resume in printable format.
 
 ---
 **D. All Links:**
